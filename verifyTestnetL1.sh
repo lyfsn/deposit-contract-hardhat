@@ -1,0 +1,1 @@
+npx hardhat verify --network testnetl1 0xace0000000000000000000000000000000000aCe 
