@@ -8,7 +8,6 @@ module.exports = {
     optimizer: {
       enabled: true,
       runs: 5000000,
-      details: { yul: false },
     },
   },
   networks: {
